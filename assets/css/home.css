@@ -432,11 +432,13 @@
     background: linear-gradient(to right, #ffcc00, #ffa600);
     color: #222;
     text-align: center;
+    padding: 10px  ;
 }
 
 .cookie-header h1 {
     font-size: 2.8rem;
     margin-bottom: 10px;
+    font-style: italic;
 }
 
 .cookie-header p {
